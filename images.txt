@@ -1,2 +1,3 @@
 nginx
 alpine
+ubuntu:22.04
