@@ -4,4 +4,4 @@ ubuntu:22.04
 ubuntu:20.04
 httpd:2.4
 gitea/act_runner
-ubuntu:last
+ubuntu
