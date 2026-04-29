@@ -6,3 +6,4 @@ httpd:2.4
 gitea/act_runner
 ubuntu
 gitea/gitea
+redis
