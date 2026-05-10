@@ -8,3 +8,4 @@ ubuntu
 gitea/gitea
 redis
 nousresearch/hermes-agent
+ghcr.io/go-sigma/sigma:nightly-alpine
