@@ -9,3 +9,4 @@ gitea/gitea
 redis
 nousresearch/hermes-agent
 ghcr.io/go-sigma/sigma:nightly-alpine
+jo-inc/camofox-browser
